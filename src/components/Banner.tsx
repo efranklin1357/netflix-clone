@@ -3,7 +3,7 @@
 import Image from "next/image";
 import { Movie } from "../../typings";
 import { useEffect, useState } from "react";
-import { baseUrl } from "@/constants/movie";
+import { baseUrl } from "../constants/movie";
 import { FaPlay } from "react-icons/fa";
 import { InformationCircleIcon } from "@heroicons/react/16/solid";
 
